@@ -13,7 +13,7 @@ class IndexController extends pm_Controller_Action
         if ($this->getRequest()->isPost() && $form->isValid($this->getRequest()->getPost())) {
             $form->process();
             $this->_status->addMessage('info', 'Settings were saved.');
-            $this->_helper->json(array('redirect' => pm_Context::getBaseUrl()));
+            $this->_helper->json(array('redirect' => pm_Context::getModulesListUrl()));
         }
 
         $this->view->form = $form;

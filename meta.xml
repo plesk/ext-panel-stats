@@ -3,7 +3,7 @@
   <id>panel-stats</id>
   <name>Panel Statistics</name>
   <description>Provide statistics for external systems in plain, XML or JSON format.</description>
-  <version>1.1</version>
+  <version>1.2</version>
   <release>1</release>
   <icon/>
   <vendor>Parallels</vendor>

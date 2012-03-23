@@ -6,7 +6,7 @@ class Modules_PanelStats_Form_Settings extends pm_Form_Simple
     public function init()
     {
         $this->addElement('description', 'description', array(
-            'description' => 'You can protect statistics information or make it public available.',
+            'description' => $this->lmsg('formSettingsDescription'),
         ));
 
         $useAuth = (bool)pm_Settings::get('useAuth');

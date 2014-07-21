@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2014. Parallels IP Holdings GmbH. All Rights Reserved. -->
 <module>
   <id>panel-stats</id>
   <name>Panel Statistics</name>
   <description>Provide statistics for external systems in plain, XML or JSON format.</description>
   <version>1.3</version>
-  <release>3</release>
+  <release>4</release>
   <icon/>
   <vendor>Parallels</vendor>
   <url>http://parallels.com</url>

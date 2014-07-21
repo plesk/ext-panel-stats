@@ -1,5 +1,5 @@
 <?php
-
+// Copyright 1999-2014. Parallels IP Holdings GmbH. All Rights Reserved.
 $messages = array(
     'settingsPageTitle' => 'Plesk Statistics Settings',
     'settingsSaved' => 'The settings were saved.',

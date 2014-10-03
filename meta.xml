@@ -5,9 +5,9 @@
   <name>Panel Statistics</name>
   <description>Provide statistics for external systems in plain, XML or JSON format.</description>
   <version>1.3</version>
-  <release>4</release>
+  <release>5</release>
   <icon/>
-  <vendor>Parallels</vendor>
+  <vendor>Parallels, Inc.</vendor>
   <url>http://parallels.com</url>
   <plesk_min_version>11.0.1</plesk_min_version>
 </module>

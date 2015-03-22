@@ -1,5 +1,5 @@
 <?php
-// Copyright 1999-2014. Parallels IP Holdings GmbH.
+// Copyright 1999-2015. Parallels IP Holdings GmbH.
 class Modules_PanelStats_Form_Settings extends pm_Form_Simple
 {
 

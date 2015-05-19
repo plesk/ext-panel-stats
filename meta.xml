@@ -5,8 +5,8 @@
   <name>Panel Statistics</name>
   <description>Provide statistics for external systems in plain, XML or JSON format.</description>
   <version>1.3</version>
-  <release>10</release>
-  <vendor>Parallels</vendor>
-  <url>http://parallels.com</url>
+  <release>11</release>
+  <vendor>Odin</vendor>
+  <url>http://www.odin.com/products/plesk/</url>
   <plesk_min_version>11.0.1</plesk_min_version>
 </module>

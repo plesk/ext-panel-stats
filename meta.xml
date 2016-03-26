@@ -4,9 +4,9 @@
   <id>panel-stats</id>
   <name>Panel Statistics</name>
   <description>Provide statistics for external systems in plain, XML or JSON format.</description>
-  <version>1.3</version>
-  <release>12</release>
+  <version>1.4</version>
+  <release>0</release>
   <vendor>Plesk</vendor>
   <url>https://github.com/plesk/ext-panel-stats</url>
-  <plesk_min_version>11.0.1</plesk_min_version>
+  <plesk_min_version>12.0</plesk_min_version>
 </module>

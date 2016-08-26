@@ -1,4 +1,6 @@
-Panel Stats
+# Panel Stats
+
+[![Apache 2](http://img.shields.io/badge/license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 The extension enables external or third-party systems to retrieve statistics about Plesk usage. It is possible to retrieve data at a special URL. The data include information about the number of subscriptions, domains, customers, and resellers. The information can be presented in various formats. This extension can be useful for integration with external monitoring and statistics calculation systems.
 
